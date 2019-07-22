@@ -1,0 +1,11 @@
+C:\Users\Ale\source\repos\JobSimpleLogger\JobSimpleLogger\bin\Debug\netcoreapp2.1\JobSimpleLogger.deps.json
+C:\Users\Ale\source\repos\JobSimpleLogger\JobSimpleLogger\bin\Debug\netcoreapp2.1\JobSimpleLogger.runtimeconfig.json
+C:\Users\Ale\source\repos\JobSimpleLogger\JobSimpleLogger\bin\Debug\netcoreapp2.1\JobSimpleLogger.runtimeconfig.dev.json
+C:\Users\Ale\source\repos\JobSimpleLogger\JobSimpleLogger\bin\Debug\netcoreapp2.1\JobSimpleLogger.dll
+C:\Users\Ale\source\repos\JobSimpleLogger\JobSimpleLogger\bin\Debug\netcoreapp2.1\JobSimpleLogger.pdb
+C:\Users\Ale\source\repos\JobSimpleLogger\JobSimpleLogger\obj\Debug\netcoreapp2.1\JobSimpleLogger.csproj.CoreCompileInputs.cache
+C:\Users\Ale\source\repos\JobSimpleLogger\JobSimpleLogger\obj\Debug\netcoreapp2.1\JobSimpleLogger.AssemblyInfoInputs.cache
+C:\Users\Ale\source\repos\JobSimpleLogger\JobSimpleLogger\obj\Debug\netcoreapp2.1\JobSimpleLogger.AssemblyInfo.cs
+C:\Users\Ale\source\repos\JobSimpleLogger\JobSimpleLogger\obj\Debug\netcoreapp2.1\JobSimpleLogger.dll
+C:\Users\Ale\source\repos\JobSimpleLogger\JobSimpleLogger\obj\Debug\netcoreapp2.1\JobSimpleLogger.pdb
+C:\Users\Ale\source\repos\JobSimpleLogger\JobSimpleLogger\obj\Debug\netcoreapp2.1\JobSimpleLogger.csprojAssemblyReference.cache

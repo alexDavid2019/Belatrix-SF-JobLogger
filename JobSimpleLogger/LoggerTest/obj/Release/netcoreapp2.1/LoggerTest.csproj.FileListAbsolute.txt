@@ -1,0 +1,12 @@
+C:\Users\Ale\source\repos\JobSimpleLogger\LoggerTest\bin\Release\netcoreapp2.1\LoggerTests.deps.json
+C:\Users\Ale\source\repos\JobSimpleLogger\LoggerTest\bin\Release\netcoreapp2.1\LoggerTests.dll
+C:\Users\Ale\source\repos\JobSimpleLogger\LoggerTest\bin\Release\netcoreapp2.1\LoggerTests.pdb
+C:\Users\Ale\source\repos\JobSimpleLogger\LoggerTest\bin\Release\netcoreapp2.1\JobSimpleLogger.dll
+C:\Users\Ale\source\repos\JobSimpleLogger\LoggerTest\bin\Release\netcoreapp2.1\JobSimpleLogger.pdb
+C:\Users\Ale\source\repos\JobSimpleLogger\LoggerTest\obj\Release\netcoreapp2.1\LoggerTest.csprojAssemblyReference.cache
+C:\Users\Ale\source\repos\JobSimpleLogger\LoggerTest\obj\Release\netcoreapp2.1\LoggerTest.csproj.CoreCompileInputs.cache
+C:\Users\Ale\source\repos\JobSimpleLogger\LoggerTest\obj\Release\netcoreapp2.1\LoggerTest.AssemblyInfoInputs.cache
+C:\Users\Ale\source\repos\JobSimpleLogger\LoggerTest\obj\Release\netcoreapp2.1\LoggerTest.AssemblyInfo.cs
+C:\Users\Ale\source\repos\JobSimpleLogger\LoggerTest\obj\Release\netcoreapp2.1\LoggerTest.csproj.CopyComplete
+C:\Users\Ale\source\repos\JobSimpleLogger\LoggerTest\obj\Release\netcoreapp2.1\LoggerTests.dll
+C:\Users\Ale\source\repos\JobSimpleLogger\LoggerTest\obj\Release\netcoreapp2.1\LoggerTests.pdb
